@@ -9,5 +9,7 @@ App id and rest api key. Those are needed to make api calls to parse.com.
 
 The code is fully documented inside the class. it's open source and anyone may modify, copy or use it even commercially!
 
+If you have suggestions you can give them on the Real Software Forums here: http://forums.realsoftware.com/viewtopic.php?f=9&t=44797
+
 Have fun coding,
 Derk Jochems - swort  - The Netherlands
